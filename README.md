@@ -21,9 +21,9 @@ If it's a positive feedback, the user gets a 'Thank you' mail. Otherwise, a mail
   
 ## Authors
 
-* **Leslie Correa** - *Contributor* - [LeslieCorrea](https://github.com/LeslieCorrea)
+* **Divyashree Shetty** - *Contributor* - [DivyashreeShetty](https://github.com/DivyashreeShetty)
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LeslieCorrea/Xamarin-Forms-Shopping-Cart/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DivyashreeShetty97/AutomationIndia2020-HackGeeks/blob/master/LICENSE) file for details.
