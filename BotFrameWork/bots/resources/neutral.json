@@ -1,0 +1,12 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "type": "Image",
+        "url": "https://clipart.info/images/ccovers/1496184263Neutral-Emoji-Png-transparent-background.png",
+        "size": "medium"
+      }
+    ]
+  }

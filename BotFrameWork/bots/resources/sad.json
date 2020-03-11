@@ -1,0 +1,12 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "type": "Image",
+        "url": "https://images.vexels.com/media/users/3/134884/isolated/preview/48e6880a62eaa4c1da1cbbc0880804ec-worry-sad-emoji-emoticon-by-vexels.png",
+        "size": "medium"
+      }
+    ]
+  }
