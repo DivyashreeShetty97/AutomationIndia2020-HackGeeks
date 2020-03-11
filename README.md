@@ -9,5 +9,7 @@ The details mentioned in the order bill is extracted by Microsoft OCR (service u
 
 If it's a positive feedback, the user gets a 'Thank you' mail. Otherwise, a mail displaying appropriate message, with promise to improve, is sent and a issue is raised to the team in ServiceNow with all the details.
 
-
+<p>
+  <img src="https://github.com/DivyashreeShetty97/AutomationIndia2020-HackGeeks/blob/master/Images/quickfed.PNG" width="150" height="300" alt="">
+<p>
 
