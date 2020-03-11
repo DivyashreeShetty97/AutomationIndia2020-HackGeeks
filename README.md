@@ -21,7 +21,7 @@ If it's a positive feedback, the user gets a 'Thank you' mail. Otherwise, a mail
   
 ## Authors
 
-* **Divyashree Shetty** - *Contributor* - [DivyashreeShetty](https://github.com/DivyashreeShetty)
+* **Divyashree Shetty** - *Contributor* - [DivyashreeShetty97](https://github.com/DivyashreeShetty97)
 
 
 ## License
