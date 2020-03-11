@@ -18,6 +18,7 @@ If it's a positive feedback, the user gets a 'Thank you' mail. Otherwise, a mail
 <p>
   <img src="https://github.com/DivyashreeShetty97/AutomationIndia2020-HackGeeks/blob/master/Images/architecture.PNG" width="800" height="400" alt="Architecture">
 <p>
+(The greyed out part in the architecture is the future scope of the solution, QuickFed)
 
 ## License
 
